@@ -12,4 +12,4 @@ The primary goal of this test is to confirm SciPy can be used with fmus to find 
 
 ![QuadraticFunction](fmuCallThroughScipy.gif)
 
-Next step is to use a convex physical system model instead of a simple quadratic function and find the optimum solution. 
+Next step is to use a convex physical system model instead of a simple quadratic function and find the optimum solution.  
